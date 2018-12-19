@@ -1,0 +1,6 @@
+package snippet;
+
+public class Snippet {
+	flyway -url="jdbc:mysql://localhost:3306/MIGRATEDB" -locations=filesystem:/migrations clean migrate
+}
+

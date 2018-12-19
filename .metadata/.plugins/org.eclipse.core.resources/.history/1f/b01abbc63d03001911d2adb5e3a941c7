@@ -1,0 +1,12 @@
+---
+applications:
+- name: customer-service
+  path: ./spring-boot-flyway/target/spring-boot-flyway-0.0.1-SNAPSHOT.jar
+  routes:
+  - route: flyway-nttd.cfapps.io
+  instances: 1
+  services:
+  - migrate-database
+  buildpacks:
+  - java_buildpack
+  

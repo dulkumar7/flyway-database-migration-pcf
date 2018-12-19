@@ -1,0 +1,12 @@
+---
+applications:
+- name: database-migration-demo-service
+  path: ./demo-flyway-pcf/target/demo-flyway-pcf-0.0.1-SNAPSHOT.jar
+  routes:
+  - route: flyway-migration.cfapps.io
+  instances: 1
+  services:
+  - migrate-database
+  buildpacks:
+  - java_buildpack
+  

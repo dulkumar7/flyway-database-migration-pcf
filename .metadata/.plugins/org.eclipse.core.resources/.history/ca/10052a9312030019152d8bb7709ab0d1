@@ -1,0 +1,5 @@
+flyway.user=user
+flyway.password=password
+flyway.schemas=MIGRATEDB
+flyway.url=jdbc:mysql://localhost:3306/MIGRATEDB
+flyway.locations=filesystem:databases/migrations
