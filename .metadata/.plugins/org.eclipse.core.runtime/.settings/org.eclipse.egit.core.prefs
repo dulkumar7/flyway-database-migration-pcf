@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\167817\\Desktop\\flyway\\New folder\\spring-boot-flyway\\.git;C\:\\Users\\167817\\Desktop\\flyway\\spring-boot-flyway\\.git;C\:\\Users\\167817\\Desktop\\flyway\\spring-boot-flyway-example\\.git;C\:\\Users\\167817\\Desktop\\flyway\\spring-boot-shopping-cart\\.git;
-GitRepositoriesView.GitDirectories.relative=New folder\\spring-boot-flyway\\.git;spring-boot-flyway\\.git;spring-boot-flyway-example\\.git;spring-boot-shopping-cart\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\167817\\Desktop\\flyway\\New folder\\spring-boot-flyway\\.git;C\:\\Users\\167817\\Desktop\\flyway\\spring-boot-flyway\\.git;C\:\\Users\\167817\\Desktop\\flyway\\spring-boot-flyway-example\\.git;C\:\\Users\\167817\\Desktop\\flyway\\spring-boot-shopping-cart\\.git;C\:\\Users\\167817\\Desktop\\flyway\\.git;
+GitRepositoriesView.GitDirectories.relative=New folder\\spring-boot-flyway\\.git;spring-boot-flyway\\.git;spring-boot-flyway-example\\.git;spring-boot-shopping-cart\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
