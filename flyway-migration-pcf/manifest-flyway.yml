@@ -7,6 +7,4 @@ applications:
   instances: 1
   services:
   - migrate-database
-  buildpacks:
-  - java_buildpack
   
